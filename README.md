@@ -20,8 +20,7 @@ Sales performance, average price and revenue, driving range and battery capacity
 Power BI, Power Query, DAX, data modelling, KPI analysis, data visualization, interactive slicers, business insight generation
 
 ## Files
-- `EV_Dashboard.pbix`: Power BI report file
-- `screenshots/`: images of each dashboard page
-
+- `EV Cars_Analysis.pbix`: Power BI report file
+- `EV_1.jpeg`, `EV_2.jpeg`, `EV_3.jpeg`: screenshots of the three dashboard pages
 ## Data Source
 [Add dataset name and link]
