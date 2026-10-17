@@ -22,5 +22,6 @@ Power BI, Power Query, DAX, data modelling, KPI analysis, data visualization, in
 ## Files
 - `EV Cars_Analysis.pbix`: Power BI report file
 - `EV_1.jpeg`, `EV_2.jpeg`, `EV_3.jpeg`: screenshots of the three dashboard pages
+
 ## Data Source
-[Add dataset name and link]
+Kaggle Data Set
