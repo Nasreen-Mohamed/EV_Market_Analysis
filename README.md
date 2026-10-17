@@ -1,6 +1,3 @@
-# EV_Market_Analysis
-Electric Vehicle Market &amp; Pricing Analysis | Interactive Power BI dashboard exploring EV pricing, sales, range, battery performance, and market trends using Power Query and DAX.
-
 # Electric Vehicle Market & Pricing Analysis | Power BI Dashboard
 
 An interactive Power BI dashboard analyzing how brand, model, pricing, battery capacity, driving range, charging speed, performance, market segment, and customer ratings shape the EV market.
